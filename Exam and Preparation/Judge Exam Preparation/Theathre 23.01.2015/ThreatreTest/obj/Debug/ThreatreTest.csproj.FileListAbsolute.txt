@@ -1,0 +1,16 @@
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\bin\Debug\ThreatreTest.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\bin\Debug\ThreatreTest.pdb
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\bin\Debug\TheatreApp.exe
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\bin\Debug\TheatreApp.pdb
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\obj\Debug\ThreatreTest.csprojResolveAssemblyReference.cache
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\obj\Debug\ThreatreTest.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\Theatre\ThreatreTest\obj\Debug\ThreatreTest.pdb
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\bin\Debug\ThreatreTest.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\bin\Debug\ThreatreTest.pdb
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\bin\Debug\TheatreApp.exe
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\bin\Debug\TheatreApp.pdb
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\obj\Debug\ThreatreTest.csprojResolveAssemblyReference.cache
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\obj\Debug\ThreatreTest.dll
+C:\Users\valchevv\Desktop\GitHub\High Quality Code\Exam and Preparation\Judge Exam Preparation\Theathre 23.01.2015\ThreatreTest\obj\Debug\ThreatreTest.pdb

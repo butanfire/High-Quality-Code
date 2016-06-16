@@ -1,0 +1,10 @@
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\GetTests.dll
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\GetTests.pdb
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\obj\Debug\GetTests.csprojResolveAssemblyReference.cache
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\obj\Debug\GetTests.dll
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\obj\Debug\GetTests.pdb
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\Moq.dll
+C:\Users\valchevv\Desktop\Soft Uni Programming\HQCode\Exam Preparation\August23Bangalore University\Bangalore\Bangalore\GetTests\bin\Debug\Moq.xml
